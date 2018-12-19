@@ -1,0 +1,8 @@
+build
+build-*
+installed
+*~
+*.txt.user
+*.pro.user
+doxy/out
+

@@ -1,0 +1,1 @@
+/usr/bin/g++  -fPIC -g  -shared -Wl,-soname,libskinTasks.so -o libskinTasks.so CMakeFiles/skinTasks.dir/src/Tasks/LedFeedback.cpp.o CMakeFiles/skinTasks.dir/src/Tasks/Recon.cpp.o CMakeFiles/skinTasks.dir/include/Tasks/moc_LedFeedback.cxx.o CMakeFiles/skinTasks.dir/include/Tasks/moc_Recon.cxx.o -lQtOpenGL -lQtGui -lQtNetwork -lQtCore 

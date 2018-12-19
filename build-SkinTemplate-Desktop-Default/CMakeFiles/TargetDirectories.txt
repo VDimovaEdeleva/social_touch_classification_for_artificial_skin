@@ -1,0 +1,9 @@
+/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Default/CMakeFiles/install.dir
+/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Default/CMakeFiles/list_install_components.dir
+/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Default/CMakeFiles/edit_cache.dir
+/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Default/CMakeFiles/skin.dir
+/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Default/CMakeFiles/skinTasks.dir
+/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Default/CMakeFiles/uninstall.dir
+/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Default/CMakeFiles/install/local.dir
+/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Default/CMakeFiles/install/strip.dir

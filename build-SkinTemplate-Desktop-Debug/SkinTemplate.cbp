@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="SkinTemplate" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\share\;CMake Files\..\..\..\..\..\usr\share\cmake\;CMake Files\..\..\..\..\..\usr\share\cmake\TCommon\;CMake Files\..\..\..\..\..\usr\share\cmake\TThreads\;CMake Files\..\..\..\..\..\usr\share\cmake\Ftdi\;CMake Files\..\..\..\..\..\usr\share\cmake\SkinCore\;CMake Files\..\..\..\..\..\usr\share\cmake\SkinRecon\;CMake Files\..\..\..\..\..\usr\share\cmake\SkinViz\;CMake Files\..\..\..\..\..\usr\share\cmake\SkinManagers\;CMake Files\..\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\..\usr\lib\cmake\;CMake Files\..\..\..\..\..\usr\lib\cmake\eigen3\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install">
+         <Option working_dir="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 install" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="list_install_components">
+         <Option working_dir="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 list_install_components" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="skin">
+         <Option output="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/skin" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DQT_OPENGL_LIB" />
+            <Add option="-DQT_GUI_LIB" />
+            <Add option="-DQT_NETWORK_LIB" />
+            <Add option="-DQT_CORE_LIB" />
+            <Add directory="/home/nise/Documents/hw3/SkinTemplate" />
+            <Add directory="/home/nise/Documents/hw3/SkinTemplate/include" />
+            <Add directory="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/eigen3" />
+            <Add directory="/usr/include/qt4" />
+            <Add directory="/usr/include/qt4/QtCore" />
+            <Add directory="/usr/include/qt4/QtGui" />
+            <Add directory="/usr/include/qt4/QtNetwork" />
+            <Add directory="/usr/include/qt4/QtOpenGL" />
+            <Add directory="/usr/include/tumskin" />
+            <Add directory="/usr/include/tumtools" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 skin" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="skin/fast">
+         <Option output="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/skin" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DQT_OPENGL_LIB" />
+            <Add option="-DQT_GUI_LIB" />
+            <Add option="-DQT_NETWORK_LIB" />
+            <Add option="-DQT_CORE_LIB" />
+            <Add directory="/home/nise/Documents/hw3/SkinTemplate" />
+            <Add directory="/home/nise/Documents/hw3/SkinTemplate/include" />
+            <Add directory="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/eigen3" />
+            <Add directory="/usr/include/qt4" />
+            <Add directory="/usr/include/qt4/QtCore" />
+            <Add directory="/usr/include/qt4/QtGui" />
+            <Add directory="/usr/include/qt4/QtNetwork" />
+            <Add directory="/usr/include/qt4/QtOpenGL" />
+            <Add directory="/usr/include/tumskin" />
+            <Add directory="/usr/include/tumtools" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 skin/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="skinTasks">
+         <Option output="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/libskinTasks.so" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug" />
+         <Option object_output="./" />
+         <Option type="3" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DQT_OPENGL_LIB" />
+            <Add option="-DQT_GUI_LIB" />
+            <Add option="-DQT_NETWORK_LIB" />
+            <Add option="-DQT_CORE_LIB" />
+            <Add directory="/home/nise/Documents/hw3/SkinTemplate" />
+            <Add directory="/home/nise/Documents/hw3/SkinTemplate/include" />
+            <Add directory="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/eigen3" />
+            <Add directory="/usr/include/qt4" />
+            <Add directory="/usr/include/qt4/QtCore" />
+            <Add directory="/usr/include/qt4/QtGui" />
+            <Add directory="/usr/include/qt4/QtNetwork" />
+            <Add directory="/usr/include/qt4/QtOpenGL" />
+            <Add directory="/usr/include/tumskin" />
+            <Add directory="/usr/include/tumtools" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 skinTasks" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="skinTasks/fast">
+         <Option output="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/libskinTasks.so" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug" />
+         <Option object_output="./" />
+         <Option type="3" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DQT_OPENGL_LIB" />
+            <Add option="-DQT_GUI_LIB" />
+            <Add option="-DQT_NETWORK_LIB" />
+            <Add option="-DQT_CORE_LIB" />
+            <Add directory="/home/nise/Documents/hw3/SkinTemplate" />
+            <Add directory="/home/nise/Documents/hw3/SkinTemplate/include" />
+            <Add directory="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug" />
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/eigen3" />
+            <Add directory="/usr/include/qt4" />
+            <Add directory="/usr/include/qt4/QtCore" />
+            <Add directory="/usr/include/qt4/QtGui" />
+            <Add directory="/usr/include/qt4/QtNetwork" />
+            <Add directory="/usr/include/qt4/QtOpenGL" />
+            <Add directory="/usr/include/tumskin" />
+            <Add directory="/usr/include/tumtools" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 skinTasks/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="uninstall">
+         <Option working_dir="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 uninstall" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install/local">
+         <Option working_dir="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 install/local" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install/strip">
+         <Option working_dir="/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 install/strip" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/nise/Documents/hw3/build-SkinTemplate-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/include/Tasks/LedFeedback.h">
+         <Option target="skinTasks"/>
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/include/Tasks/Recon.h">
+         <Option target="skinTasks"/>
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/src/Applications/MainConsole.cpp">
+         <Option target="skin"/>
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/src/Applications/MainConsole.h">
+         <Option target="skin"/>
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/src/Applications/main.cpp">
+         <Option target="skin"/>
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/src/Applications/mainwindow.cpp">
+         <Option target="skin"/>
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/src/Applications/mainwindow.h">
+         <Option target="skin"/>
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/src/Applications/mainwindow.ui">
+         <Option target="skin"/>
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/src/Tasks/LedFeedback.cpp">
+         <Option target="skinTasks"/>
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/src/Tasks/Recon.cpp">
+         <Option target="skinTasks"/>
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/cmake_uninstall.cmake.in">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/TCommon/TCommonConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\TCommon\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/TThreads/TThreadsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\TThreads\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/TThreads/TThreadsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\TThreads\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/TThreads/TThreadsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\TThreads\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/TThreads/TThreadsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\TThreads\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/TThreads/TThreadsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\TThreads\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/TThreads/TThreadsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\TThreads\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/Ftdi/FtdiConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\Ftdi\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/SkinCore/SkinCoreConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\SkinCore\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/SkinCore/SkinCoreConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\SkinCore\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/SkinCore/SkinCoreConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\SkinCore\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/SkinCore/SkinCoreConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\SkinCore\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/SkinCore/SkinCoreConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\SkinCore\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/SkinRecon/SkinReconConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\SkinRecon\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/SkinRecon/SkinReconConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\SkinRecon\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/SkinViz/SkinVizConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\SkinViz\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/SkinViz/SkinVizConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\SkinViz\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/share/cmake/SkinManagers/SkinManagersConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\share\cmake\SkinManagers\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/lib/cmake/eigen3/Eigen3Config.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\cmake\eigen3\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/lib/cmake/eigen3/Eigen3Config.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\cmake\eigen3\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/lib/cmake/eigen3/Eigen3Config.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\cmake\eigen3\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/lib/cmake/eigen3/Eigen3Config.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\cmake\eigen3\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/lib/cmake/eigen3/Eigen3Config.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\cmake\eigen3\" />
+      </Unit>
+      <Unit filename="/home/nise/Documents/hw3/SkinTemplate/../../../../../usr/lib/cmake/eigen3/Eigen3Config.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\..\usr\lib\cmake\eigen3\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
